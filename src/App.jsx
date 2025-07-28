@@ -17,14 +17,14 @@ function App() {
 
   return (
     <>
-    {/* <HeroSection/>
-    <MarqueeSection/>
-    <PortfolioSection/>
-    <AboutUs/> */}
-  {/* <HeroSection/> */}
-    {/* <OurProducts/>
-    <Footer/> */}
-   {/* <AbouttopSection/> */}
+    {/* <HeroSection/> */}
+    {/* <MarqueeSection/>
+    <PortfolioSection/> */}
+    {/* <AboutUs/>  */}
+  <HeroSection/>
+    <OurProducts/>
+    
+   <AbouttopSection/>
    <InvestorsMedia/>
    <Footer/>
     </>
