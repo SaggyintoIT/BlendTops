@@ -42,22 +42,22 @@ const InvestorsMedia = () => {
                     <div className="elementor-widget-container">
                       <div className="stats-section">
                         <div className="stat-box">
-                          <img src="wp-content/images/icon-transactions.svg" alt="Transactions Icon"/>
+                          <img src="https://blentops-web.inddev.in/wp-content/images/icon-transactions.svg" alt="Transactions Icon"/>
                           <h3>1M+ Transactions</h3>
                           <p>ZeroGateway processes over 1 million transactions monthly</p>
                         </div>
                         <div className="stat-box">
-                          <img src="wp-content/images/icon-users.svg" alt="Users Icon"/>
+                          <img src="https://blentops-web.inddev.in/wp-content/images/icon-users.svg" alt="Users Icon"/>
                           <h3>500K+ Users</h3>
                           <p>Combined user base across all our platforms</p>
                         </div>
                         <div className="stat-box">
-                          <img src="wp-content/images/icon-globe.svg" alt="Countries Icon"/>
+                          <img src="https://blentops-web.inddev.in/wp-content/images/icon-globe.svg" alt="Countries Icon"/>
                           <h3>3 Countries</h3>
                           <p>Operational presence in India, Southeast Asia</p>
                         </div>
                         <div className="stat-box">
-                          <img src="wp-content/images/icon-award.svg" alt="Award Icon"/>
+                          <img src="https://blentops-web.inddev.in/wp-content/images/icon-award.svg" alt="Award Icon"/>
                           <h3>Award Winning</h3>
                           <p>Recognized for innovation in fintech and gaming</p>
                         </div>
@@ -96,7 +96,7 @@ const InvestorsMedia = () => {
                                       <div className="elementor-widget-container">
                                         <div className="elementor-spacer">
                                           <div className="">
-                                            <img src="wp-content/images/iconkit_1.svg" alt="Assets Icon"/>
+                                            <img src="https://blentops-web.inddev.in/wp-content/images/iconkit_1.svg" alt="Assets Icon"/>
                                           </div>
                                         </div>
                                       </div>
@@ -114,8 +114,8 @@ const InvestorsMedia = () => {
                                             <div className="mainbutton-txt">Download</div>
                                             <div className="w-layout-vflex button-iconwrapper">
                                               <div className="image-hover-slide Downloadicon">
-                                                <img src="wp-content/images/Downloadicon.svg" className="img-default" alt="Default Arrow"/>
-                                                <img src="wp-content/images/Downloadicon.svg" className="img-hover" alt="Hover Arrow"/>
+                                                <img src="https://blentops-web.inddev.in/wp-content/images/Downloadicon.svg" className="img-default" alt="Default Arrow"/>
+                                                <img src="https://blentops-web.inddev.in/wp-content/images/Downloadicon.svg" className="img-hover" alt="Hover Arrow"/>
                                               </div>
                                             </div>
                                           </a>
@@ -128,7 +128,7 @@ const InvestorsMedia = () => {
                                       <div className="elementor-widget-container">
                                         <div className="elementor-spacer">
                                           <div className="">
-                                            <img src="wp-content/images/iconkit_2.svg" alt="Financial Reports Icon"/>
+                                            <img src="https://blentops-web.inddev.in/wp-content/images/iconkit_2.svg" alt="Financial Reports Icon"/>
                                           </div>
                                         </div>
                                       </div>
@@ -148,8 +148,8 @@ const InvestorsMedia = () => {
                                             <div className="mainbutton-txt">Download</div>
                                             <div className="w-layout-vflex button-iconwrapper">
                                               <div className="image-hover-slide Downloadicon">
-                                                <img src="wp-content/images/Downloadicon.svg" className="img-default" alt="Default Arrow"/>
-                                                <img src="wp-content/images/Downloadicon.svg" className="img-hover" alt="Hover Arrow"/>
+                                                <img src="https://blentops-web.inddev.in/wp-content/images/Downloadicon.svg" className="img-default" alt="Default Arrow"/>
+                                                <img src="https://blentops-web.inddev.in/wp-content/images/Downloadicon.svg" className="img-hover" alt="Hover Arrow"/>
                                               </div>
                                             </div>
                                           </a>
@@ -162,7 +162,7 @@ const InvestorsMedia = () => {
                                       <div className="elementor-widget-container">
                                         <div className="elementor-spacer">
                                           <div className="">
-                                            <img src="wp-content/images/iconkit_3.svg" alt="Press Kit Icon"/>
+                                            <img src="https://blentops-web.inddev.in/wp-content/images/iconkit_3.svg" alt="Press Kit Icon"/>
                                           </div>
                                         </div>
                                       </div>
@@ -182,8 +182,8 @@ const InvestorsMedia = () => {
                                             <div className="mainbutton-txt">Download</div>
                                             <div className="w-layout-vflex button-iconwrapper">
                                               <div className="image-hover-slide Downloadicon">
-                                                <img src="wp-content/images/Downloadicon.svg" className="img-default" alt="Default Arrow"/>
-                                                <img src="wp-content/images/Downloadicon.svg" className="img-hover" alt="Hover Arrow"/>
+                                                <img src="https://blentops-web.inddev.in/wp-content/images/Downloadicon.svg" className="img-default" alt="Default Arrow"/>
+                                                <img src="https://blentops-web.inddev.in/wp-content/images/Downloadicon.svg" className="img-hover" alt="Hover Arrow"/>
                                               </div>
                                             </div>
                                           </a>
